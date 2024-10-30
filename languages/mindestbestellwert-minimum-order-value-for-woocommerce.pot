@@ -1,0 +1,96 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Minimum Order Value\n"
+"POT-Creation-Date: 2018-10-19 17:32+0200\n"
+"PO-Revision-Date: 2018-08-03 13:06+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: minimum-order-value.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: minimum-order-value.php:74 minimum-order-value.php:80
+msgid "Minimum Order Value"
+msgstr ""
+
+#: minimum-order-value.php:77
+msgid ""
+"The following options are used to configure the plugin “Mindestbestellwert "
+"- Minimum Order Value for Woocommerce” (by brandbeschleuniger.net)."
+msgstr ""
+
+#: minimum-order-value.php:82
+msgid "Please use a decimal point, not a comma."
+msgstr ""
+
+#: minimum-order-value.php:86
+msgid ""
+"The minimum order value for the current WooCommerce shop, given in your "
+"shop’s currency."
+msgstr ""
+
+#: minimum-order-value.php:89
+msgid "Notification Cart"
+msgstr ""
+
+#: minimum-order-value.php:91
+msgid "Notification for cart view"
+msgstr ""
+
+#: minimum-order-value.php:95
+#, php-format
+msgid ""
+"Message shown in cart view when current total order value is too low (note: "
+"the %s are placeholders – they get replaced automatically, the first one "
+"with the defined minimum order value and the second one with the current "
+"total order value of the user’s cart)."
+msgstr ""
+
+#: minimum-order-value.php:98
+msgid "Notification Checkout"
+msgstr ""
+
+#: minimum-order-value.php:100
+msgid "Notification for checkout view"
+msgstr ""
+
+#: minimum-order-value.php:104
+msgid ""
+"Message shown in checkout view when current total order value is too low "
+"(see the note above)."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Mindestbestellwert - Minimum Order Value for Woocommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://brandbeschleuniger.net/wp-plugins/minimum-order-value/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Simple plugin extending WooCommerce to set a minimum order value. Shows a "
+"notification in cart view and an error in checkout when the current total "
+"order value is too low. Can be configured under »WC Settings / Checkout«."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Brandbeschleuniger"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://brandbeschleuniger.net/"
+msgstr ""
